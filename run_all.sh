@@ -7,7 +7,7 @@
 #                                             cooking coding; PAFID v1.0, Zenodo 10.5281/zenodo.23226251)
 # Output: analysis_code/compute_outputs/   tables (CSV) for every analysis
 #         analysis_code/results/           figures
-#         sensitivity/sensitivity_outputs/             review-round sensitivity analyses (CSV)
+#         sensitivity/outputs/             review-round sensitivity analyses (CSV)
 #
 # Usage : bash run_all.sh [quick|full]            (default: quick)
 #   quick  data -> RDMs -> univariate RSA, regressions, family CV, figures,
@@ -55,8 +55,6 @@ step() {                     # step "label" cmd...   (fail fast)
     echo "[OK] $label ($(( $(date +%s) - t ))s)"
 }
 
-# FIGURES_ONLY=1 skips data, RDMs and analyses (reuses outputs from an earlier run).
-if [ "${FIGURES_ONLY:-0}" != "1" ]; then
 # ---------------------------------------------------------------- 0. data -> RDMs
 mkdir -p "$AC/derivatives/model_rdms_canon"
 step "Convert public trial file to analysis schema" \
@@ -113,8 +111,6 @@ if [ "$MODE" = "full" ]; then
     done
 fi
 
-fi
-
 # ---------------------------------------------------------------- 4. figures
 [ "$MODE" = "full" ] && step "Fig: data quality / reliability" $PYTHON "$AC/results0_data_qc_reliability_pooling.py"
 step "Fig: behavioural similarity space"      $PYTHON "$AC/results1_behavioural_space_2d.py"
@@ -138,4 +134,4 @@ if [ -x sensitivity/run_sensitivity.sh ] || [ -f sensitivity/run_sensitivity.sh 
 fi
 
 echo; echo "Done ($MODE) in $(( ($(date +%s) - T0) / 60 )) min."
-echo "Tables : $AC/compute_outputs/    Figures : $AC/results/    Sensitivity : sensitivity/sensitivity_outputs/"
+echo "Tables : $AC/compute_outputs/    Figures : $AC/results/    Sensitivity : sensitivity/outputs/"
