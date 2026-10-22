@@ -1,0 +1,5 @@
+# Only needed to retrain the SPoSE embedding (RUN_NN=1 bash run_all.sh full)
+-r requirements.txt
+torch>=2.5
+torchvision>=0.20
+einops>=0.8

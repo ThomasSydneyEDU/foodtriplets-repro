@@ -1,0 +1,19 @@
+{
+  "title": "Analysis code for \"What Do We See When We Look at Food? Category and Semantic Structure in Food Representations\"",
+  "upload_type": "software",
+  "description": "Code that rebuilds every analysis, figure and table in the paper from the anonymised trial-level data (doi:10.5281/zenodo.23498576) and the PAFID item information (doi:10.5281/zenodo.23226251). Run <code>bash run_all.sh quick</code> for the main analyses or <code>bash run_all.sh full</code> to add the noise ceilings and the Shapley variance attribution. Participant identifiers and row order in the public data are shuffled, so order-dependent steps (SPoSE training, split-half noise ceilings) reproduce approximately; the paper's SPoSE seed-20 solution is included. The 82 participants excluded before analysis are not in the public data.",
+  "creators": [
+    {"name": "Carlson, Thomas A.", "affiliation": "School of Psychology, University of Sydney"},
+    {"name": "Katsoulis, Styliani", "affiliation": "School of Psychology, University of Sydney"},
+    {"name": "Hebart, Martin N.", "affiliation": "Max Planck Institute for Human Cognitive and Brain Sciences"},
+    {"name": "Avery, Jason A.", "affiliation": "Oklahoma State University Center for Health Sciences"}
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "version": "1.0.0",
+  "keywords": ["food", "similarity", "odd-one-out", "triplet task", "representational similarity analysis", "SPoSE", "category"],
+  "related_identifiers": [
+    {"relation": "references", "identifier": "10.5281/zenodo.23498576", "scheme": "doi", "resource_type": "dataset"},
+    {"relation": "references", "identifier": "10.5281/zenodo.23226251", "scheme": "doi", "resource_type": "dataset"}
+  ]
+}

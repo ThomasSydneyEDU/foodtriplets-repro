@@ -11,3 +11,5 @@ analysis_code/results/*
 analysis_code/results/stage7_nn_interpretation/*
 !analysis_code/results/stage7_nn_interpretation/ai_interpretations_cache.json
 sensitivity/sensitivity_outputs/
+full_run.log
+*.log

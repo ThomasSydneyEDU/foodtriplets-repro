@@ -8,10 +8,10 @@ Code to reproduce the analyses, tables and figures in Carlson, Avery, Hebart et 
 |---|---|---|
 | Anonymised trial data (140,160 trials, 290 participants) | Zenodo, doi:10.5281/zenodo.23498576 | `data/foodtriplets_trial_data.csv` (see `data/README.md`) |
 | PAFID item information and cached visual features (350 images) | Zenodo, doi:10.5281/zenodo.23226251 | `analysis_code/reference/` |
-| Cooking-based transformation coding, cuisine coding | this repo | `analysis_code/reference/cooked_transformation_coding.csv`, `inputs/stimulus_cuisine_coding.csv` |
+| Cooking-based transformation coding | this repo | `analysis_code/reference/cooked_transformation_coding.csv` |
 | SPoSE seed-20 embedding used in the paper | this repo | `analysis_code/derivatives/nn_runs/`, `analysis_code/cached/` |
 
-Python 3.10 or later: `pip install -r requirements.txt`.
+Python 3.10 to 3.12: `pip install -r requirements.txt` (flexible ranges). `requirements-lock.txt` lists the exact package versions used during development, and `requirements-nn.txt` adds torch for optional SPoSE retraining. On macOS use scipy 1.16 or later.
 
 ## Run
 
@@ -37,3 +37,11 @@ Not included: the 82 participants excluded before analysis, so the exclusion-sen
 ## Citation
 
 Please cite the paper and the data records above.
+
+## Runtime and checks
+
+`quick` took about two hours on a laptop (it includes the slow univariate permutation scans) and `full` takes many more hours (the Shapley attribution at 2,000 orderings dominates). On the public data, the empirical RDM and pair counts, all univariate RSA fits, the regressions and the family cross-validation matched the original pipeline outputs to numerical precision. Resampling-based intervals (bootstraps, split-half ceilings) match up to Monte Carlo error. `analysis_code/prelim_preprocess_data.py` documents the raw-data preprocessing and is not run, because raw sessions are not public.
+
+## Licence and citation
+
+MIT licence (see `LICENSE`). Citation metadata is in `CITATION.cff`; the released version is archived on Zenodo.

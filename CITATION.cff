@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it and the associated paper."
+title: "Analysis code for 'What Do We See When We Look at Food? Category and Semantic Structure in Food Representations'"
+type: software
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/ThomasSydneyEDU/foodtriplets-repro"
+authors:
+  - family-names: Carlson
+    given-names: Thomas A.
+    affiliation: "School of Psychology, University of Sydney"
+  - family-names: Katsoulis
+    given-names: Styliani
+    affiliation: "School of Psychology, University of Sydney"
+  - family-names: Hebart
+    given-names: Martin N.
+    affiliation: "Max Planck Institute for Human Cognitive and Brain Sciences"
+  - family-names: Avery
+    given-names: Jason A.
+    affiliation: "Oklahoma State University Center for Health Sciences"
+references:
+  - type: dataset
+    title: "FoodTriplets: Anonymised odd-one-out triplet judgements of 350 foods"
+    doi: 10.5281/zenodo.23498576
+    authors:
+      - family-names: Carlson
+        given-names: Thomas A.
+      - family-names: Katsoulis
+        given-names: Styliani
+      - family-names: Hebart
+        given-names: Martin N.
+      - family-names: Avery
+        given-names: Jason A.
+    year: 2026
+  - type: dataset
+    title: "PAFID: Public AI-Generated Food Image Database"
+    doi: 10.5281/zenodo.23226251
+    version: "1.0"
+    authors:
+      - family-names: Katsoulis
+        given-names: Styliani
+      - family-names: Carlson
+        given-names: Thomas A.
+    year: 2026
