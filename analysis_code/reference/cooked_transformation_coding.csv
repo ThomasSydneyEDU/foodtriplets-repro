@@ -1,0 +1,351 @@
+filename,food,heat_cooked,other_processing,natural_vs_transformed_cooked,natural_vs_transformed_cooked_strict
+baked-salmon-fillet.png,Baked salmon fillet,Yes,No,Transformed,Transformed
+carrot-cooked.png,Carrot (cooked),Yes,No,Transformed,Transformed
+grilled-salmon.png,Grilled salmon,Yes,No,Transformed,Transformed
+roast-beef.png,Roast beef,Yes,No,Transformed,Transformed
+roast-chicken.png,Roast chicken,Yes,No,Transformed,Transformed
+roast-lamb.png,Roast lamb,Yes,No,Transformed,Transformed
+apple-prepared.png,Apple (prepared),Yes,No,Transformed,Transformed
+apricot-prepared.png,Apricot (prepared),Yes,No,Transformed,Transformed
+peach-prepared.png,Peach (prepared),Yes,No,Transformed,Transformed
+pear-prepared.png,Pear (prepared),Yes,No,Transformed,Transformed
+pineapple-prepared.png,Pineapple (prepared),Yes,No,Transformed,Transformed
+plum-prepared.png,Plum (prepared),Yes,No,Transformed,Transformed
+asparagus-prepared.png,Asparagus (prepared),Yes,No,Transformed,Transformed
+beetroot-prepared.png,Beetroot (prepared),Yes,No,Transformed,Transformed
+broccoli-prepared.png,Broccoli (prepared),Yes,No,Transformed,Transformed
+cabbage-prepared.png,Cabbage (prepared),No,No,Natural,Natural
+cauliflower-prepared.png,Cauliflower (prepared),Yes,No,Transformed,Transformed
+eggplant-prepared.png,Eggplant (prepared),Yes,No,Transformed,Transformed
+kale-prepared.png,Kale (prepared),Yes,No,Transformed,Transformed
+onion-prepared.png,Onion (prepared),Yes,No,Transformed,Transformed
+potato-prepared.png,Potato (prepared),Yes,No,Transformed,Transformed
+spinach-prepared.png,Spinach (prepared),Yes,No,Transformed,Transformed
+sweet-potato-prepared.png,Sweet potato (prepared),Yes,No,Transformed,Transformed
+zucchini-prepared.png,Zucchini (prepared),Yes,No,Transformed,Transformed
+dried-apple.png,Dried apple,No,Yes,Transformed,Transformed
+dried-apricot.png,Dried apricot,No,Yes,Transformed,Transformed
+dried-cherry.png,Dried cherry,No,Yes,Transformed,Transformed
+dried-fig.png,Dried fig,No,Yes,Transformed,Transformed
+dried-mango.png,Dried mango,No,Yes,Transformed,Transformed
+prune.png,Prune,No,No,Natural,Natural
+raisin.png,Raisin,No,Yes,Transformed,Transformed
+oysters.png,Oysters,No,No,Natural,Natural
+sashimi.png,Sashimi,No,No,Natural,Natural
+barramundi.png,Barramundi,Yes,No,Transformed,Transformed
+beef-steak.png,Beef steak,Yes,No,Transformed,Transformed
+chicken-breast.png,Chicken breast,Yes,No,Transformed,Transformed
+chicken-thigh.png,Chicken thigh,Yes,No,Transformed,Transformed
+cod.png,Cod,Yes,No,Transformed,Transformed
+crab.png,Crab,Yes,No,Transformed,Transformed
+duck.png,Duck,Yes,No,Transformed,Transformed
+lamb-chop.png,Lamb chop,Yes,No,Transformed,Transformed
+lobster.png,Lobster,Yes,No,Transformed,Transformed
+mackerel.png,Mackerel,Yes,No,Transformed,Transformed
+mussels.png,Mussels,Yes,No,Transformed,Transformed
+octopus.png,Octopus,Yes,No,Transformed,Transformed
+pork-chop.png,Pork chop,Yes,No,Transformed,Transformed
+prawns.png,Prawns,Yes,No,Transformed,Transformed
+salmon.png,Salmon,Yes,No,Transformed,Transformed
+scallops.png,Scallops,Yes,No,Transformed,Transformed
+shrimp.png,Shrimp,Yes,No,Transformed,Transformed
+snapper.png,Snapper,Yes,No,Transformed,Transformed
+squid.png,Squid,Yes,No,Transformed,Transformed
+trout.png,Trout,Yes,No,Transformed,Transformed
+tuna.png,Tuna,Yes,No,Transformed,Transformed
+turkey.png,Turkey,Yes,No,Transformed,Transformed
+venison.png,Venison,Yes,No,Transformed,Transformed
+almonds.png,Almonds,Yes,No,Transformed,Transformed
+cashews.png,Cashews,Yes,No,Transformed,Transformed
+walnuts.png,Walnuts,No,No,Natural,Natural
+barley.png,Barley,Yes,No,Transformed,Transformed
+black-beans.png,Black beans,Yes,No,Transformed,Transformed
+cannellini-beans.png,Cannellini beans,Yes,No,Transformed,Transformed
+chickpeas.png,Chickpeas,Yes,No,Transformed,Natural
+corn.png,Corn,Yes,No,Transformed,Natural
+edamame.png,Edamame,Yes,No,Transformed,Natural
+kidney-beans.png,Kidney beans,Yes,No,Transformed,Natural
+lentils.png,Lentils,Yes,No,Transformed,Natural
+lima-beans.png,Lima beans,Yes,No,Transformed,Natural
+navy-beans.png,Navy beans,Yes,No,Transformed,Natural
+peas.png,Peas,Yes,No,Transformed,Transformed
+pinto-beans.png,Pinto beans,Yes,No,Transformed,Natural
+quinoa.png,Quinoa,Yes,No,Transformed,Transformed
+rice-brown.png,Rice (brown),Yes,No,Transformed,Transformed
+rye.png,Rye,Yes,No,Transformed,Transformed
+sorghum.png,Sorghum,Yes,No,Transformed,Transformed
+split-peas.png,Split peas,Yes,No,Transformed,Transformed
+wheat.png,Wheat,Yes,No,Transformed,Natural
+eggs-chicken.png,Eggs (chicken),Yes,No,Transformed,Transformed
+quail-eggs.png,Quail eggs,Yes,No,Transformed,Natural
+mushrooms-button.png,Mushrooms (button),Yes,No,Transformed,Transformed
+portobello-mushrooms.png,Portobello mushrooms,Yes,No,Transformed,Transformed
+shiitake-mushrooms.png,Shiitake mushrooms,Yes,No,Transformed,Transformed
+seaweed.png,Seaweed,No,Yes,Transformed,Transformed
+artichoke.png,Artichoke,Yes,No,Transformed,Transformed
+bok-choy.png,Bok choy,No,No,Natural,Natural
+brussels-sprouts.png,Brussels sprouts,Yes,No,Transformed,Transformed
+chayote.png,Chayote,Yes,No,Transformed,Natural
+leek.png,Leek,Yes,No,Transformed,Transformed
+mustard-greens.png,Mustard greens,Yes,No,Transformed,Transformed
+okra.png,Okra,Yes,No,Transformed,Transformed
+parsnip.png,Parsnip,Yes,No,Transformed,Transformed
+pumpkin.png,Pumpkin,Yes,No,Transformed,Transformed
+swiss-chard.png,Swiss chard,Yes,No,Transformed,Transformed
+taro.png,Taro,Yes,No,Transformed,Natural
+turnip.png,Turnip,Yes,No,Transformed,Transformed
+yam.png,Yam,Yes,No,Transformed,Transformed
+bamboo-shoots.png,Bamboo shoots,Yes,No,Transformed,Natural
+collard-greens.png,Collard greens,Yes,No,Transformed,Transformed
+date.png,Date,No,Yes,Transformed,Transformed
+durian.png,Durian,No,No,Natural,Natural
+garlic.png,Garlic,Yes,No,Transformed,Transformed
+lotus-root.png,Lotus root,Yes,No,Transformed,Natural
+plantain.png,Plantain,Yes,No,Transformed,Transformed
+tamarind.png,Tamarind,No,No,Natural,Natural
+water-chestnut.png,Water chestnut,No,No,Natural,Natural
+alfalfa-sprouts.png,Alfalfa sprouts,No,No,Natural,Natural
+apple-raw.png,Apple (raw),No,No,Natural,Natural
+apple-pear-nashi.png,Apple pear (nashi),No,No,Natural,Natural
+apricot-raw.png,Apricot (raw),No,No,Natural,Natural
+asparagus-raw.png,Asparagus (raw),No,No,Natural,Natural
+avocado.png,Avocado,No,No,Natural,Natural
+banana.png,Banana,No,No,Natural,Natural
+bell-pepper-capsicum.png,Bell pepper (capsicum),No,No,Natural,Natural
+blackberry.png,Blackberry,No,No,Natural,Natural
+blueberry.png,Blueberry,No,No,Natural,Natural
+broccoli-raw.png,Broccoli (raw),No,No,Natural,Natural
+cabbage-raw.png,Cabbage (raw),No,No,Natural,Natural
+carrot-raw.png,Carrot (raw),No,No,Natural,Natural
+cauliflower-raw.png,Cauliflower (raw),No,No,Natural,Natural
+celery.png,Celery,No,No,Natural,Natural
+cherry.png,Cherry,No,No,Natural,Natural
+chilli-pepper.png,Chilli pepper,No,No,Natural,Natural
+coconut.png,Coconut,No,No,Natural,Natural
+cranberry.png,Cranberry,No,No,Natural,Natural
+cucumber.png,Cucumber,No,No,Natural,Natural
+currant.png,Currant,No,No,Natural,Natural
+dragon-fruit.png,Dragon fruit,No,No,Natural,Natural
+eggplant-raw.png,Eggplant (raw),No,No,Natural,Natural
+elderberry.png,Elderberry,No,No,Natural,Natural
+endive.png,Endive,No,No,Natural,Natural
+fennel.png,Fennel,No,No,Natural,Natural
+fig-raw.png,Fig (raw),No,No,Natural,Natural
+gooseberry.png,Gooseberry,No,No,Natural,Natural
+grapefruit.png,Grapefruit,No,No,Natural,Natural
+grapes-green.png,Grapes (green),No,No,Natural,Natural
+grapes-red.png,Grapes (red),No,No,Natural,Natural
+green-beans-raw.png,Green beans (raw),No,No,Natural,Natural
+guava.png,Guava,No,No,Natural,Natural
+honeydew.png,Honeydew,No,No,Natural,Natural
+jackfruit.png,Jackfruit,No,No,Natural,Natural
+jalapeno.png,Jalapeno,No,No,Natural,Natural
+kiwi.png,Kiwi,No,No,Natural,Natural
+kohlrabi.png,Kohlrabi,No,No,Natural,Natural
+kumquat.png,Kumquat,No,No,Natural,Natural
+lemon.png,Lemon,No,No,Natural,Natural
+lettuce.png,Lettuce,No,No,Natural,Natural
+lime.png,Lime,No,No,Natural,Natural
+lychee.png,Lychee,No,No,Natural,Natural
+mandarin.png,Mandarin,No,No,Natural,Natural
+mango-raw.png,Mango (raw),No,No,Natural,Natural
+microgreens.png,Microgreens,No,No,Natural,Natural
+mulberry.png,Mulberry,No,No,Natural,Natural
+napa-cabbage.png,Napa cabbage,No,No,Natural,Natural
+nectarine.png,Nectarine,No,No,Natural,Natural
+onion-raw.png,Onion (raw),No,No,Natural,Natural
+orange.png,Orange,No,No,Natural,Natural
+papaya.png,Papaya,No,No,Natural,Natural
+passionfruit.png,Passionfruit,No,No,Natural,Natural
+peach-raw.png,Peach (raw),No,No,Natural,Natural
+pear-raw.png,Pear (raw),No,No,Natural,Natural
+persimmon.png,Persimmon,No,No,Natural,Natural
+pineapple-raw.png,Pineapple (raw),No,No,Natural,Natural
+plum-raw.png,Plum (raw),No,No,Natural,Natural
+pomegranate.png,Pomegranate,No,No,Natural,Natural
+radicchio.png,Radicchio,No,No,Natural,Natural
+radish.png,Radish,No,No,Natural,Natural
+raspberry.png,Raspberry,No,No,Natural,Natural
+rocket-arugula.png,Rocket (arugula),No,No,Natural,Natural
+rockmelon-cantaloupe.png,Rockmelon (cantaloupe),No,No,Natural,Natural
+shallot.png,Shallot,No,No,Natural,Natural
+snow-peas.png,Snow peas,No,No,Natural,Natural
+soursop.png,Soursop,No,No,Natural,Natural
+spinach-raw.png,Spinach (raw),No,No,Natural,Natural
+starfruit.png,Starfruit,No,No,Natural,Natural
+strawberry.png,Strawberry,No,No,Natural,Natural
+sugar-snap-peas.png,Sugar snap peas,No,No,Natural,Natural
+tomato-culinary-fruit.png,Tomato (culinary fruit),No,No,Natural,Natural
+watermelon.png,Watermelon,No,No,Natural,Natural
+zucchini-raw.png,Zucchini (raw),No,No,Natural,Natural
+anchovies.png,Anchovies,,,Transformed,Transformed
+apple-pie.png,Apple pie,,,Transformed,Transformed
+bacon.png,Bacon,,,Transformed,Transformed
+bagel.png,Bagel,,,Transformed,Transformed
+baguette.png,Baguette,,,Transformed,Transformed
+banana-chips.png,Banana chips,,,Transformed,Transformed
+beef-stir-fry.png,Beef stir fry,,,Transformed,Transformed
+bibimbap.png,Bibimbap,,,Transformed,Transformed
+biryani.png,Biryani,,,Transformed,Transformed
+biscuit-us.png,Biscuit (US),,,Transformed,Transformed
+borrito-bowl.png,borrito bowl,,,Transformed,Transformed
+bread-white.png,Bread (white),,,Transformed,Transformed
+bread-wholegrain.png,Bread (wholegrain),,,Transformed,Transformed
+breadstick.png,Breadstick,,,Transformed,Transformed
+brioche.png,Brioche,,,Transformed,Transformed
+brownie.png,Brownie,,,Transformed,Transformed
+bulgogi.png,Bulgogi,,,Transformed,Transformed
+burrito.png,Burrito,,,Transformed,Transformed
+butter-chicken.png,Butter chicken,,,Transformed,Transformed
+caesar-salad.png,Caesar salad,,,Transformed,Transformed
+calamari.png,Calamari,,,Transformed,Transformed
+candy.png,Candy,,,Transformed,Transformed
+carbonara.png,Carbonara,,,Transformed,Transformed
+casserole.png,Casserole,,,Transformed,Transformed
+cereal-flakes.png,Cereal flakes,,,Transformed,Transformed
+chapati.png,Chapati,,,Transformed,Transformed
+cheese-brie.png,Cheese (brie),,,Transformed,Transformed
+cheese-cheddar.png,Cheese (cheddar),,,Transformed,Transformed
+cheese-feta.png,Cheese (feta),,,Transformed,Transformed
+cheese-mozzarella.png,Cheese (mozzarella),,,Transformed,Transformed
+cheesecake.png,Cheesecake,,,Transformed,Transformed
+chicken-noodle-soup.png,Chicken noodle soup,,,Transformed,Transformed
+chicken-parmesan.png,Chicken parmesan,,,Transformed,Transformed
+chicken-tikka-wrap.png,Chicken tikka wrap,,,Transformed,Transformed
+chicken-wings.png,Chicken wings,,,Transformed,Transformed
+chili-con-carne.png,Chili con carne,,,Transformed,Transformed
+chocolate-cake.png,Chocolate cake,,,Transformed,Transformed
+chocolate-peanut-butter-pie.png,chocolate peanut butter pie,,,Transformed,Transformed
+coleslaw.png,Coleslaw,,,Transformed,Transformed
+cookie.png,Cookie,,,Transformed,Transformed
+cornbread.png,Cornbread,,,Transformed,Transformed
+couscous.png,Couscous,,,Transformed,Transformed
+cracker.png,Cracker,,,Transformed,Transformed
+croissant.png,Croissant,,,Transformed,Transformed
+cupcake.png,Cupcake,,,Transformed,Transformed
+curry-indian.png,Curry (Indian),,,Transformed,Transformed
+custard.png,Custard,,,Transformed,Transformed
+dahl.png,Dahl,,,Transformed,Transformed
+dark-chocolate.png,Dark chocolate,,,Transformed,Transformed
+deli-ham-sliced.png,Deli ham (sliced),,,Transformed,Transformed
+doner-kebab.png,Doner kebab,,,Transformed,Transformed
+donut.png,Donut,,,Transformed,Transformed
+dumplings.png,Dumplings,,,Transformed,Transformed
+empanada.png,Empanada,,,Transformed,Transformed
+falafel.png,Falafel,,,Transformed,Transformed
+fish-and-chips.png,Fish and chips,,,Transformed,Transformed
+flatbread.png,Flatbread,,,Transformed,Transformed
+french-fries-chips.png,French fries (chips),,,Transformed,Transformed
+fried-chicken.png,Fried chicken,,,Transformed,Transformed
+fried-noodles.png,Fried noodles,,,Transformed,Transformed
+fried-rice.png,Fried rice,,,Transformed,Transformed
+fried-tofu-bowl.png,Fried tofu bowl,,,Transformed,Transformed
+fruit-leather.png,Fruit leather,,,Transformed,Transformed
+fudge.png,Fudge,,,Transformed,Transformed
+garden-salad.png,Garden salad,,,Transformed,Transformed
+gelato.png,Gelato,,,Transformed,Transformed
+granola.png,Granola,,,Transformed,Transformed
+granola-bar.png,Granola bar,,,Transformed,Transformed
+greek-salad.png,Greek salad,,,Transformed,Transformed
+ground-beef.png,Ground beef,,,Transformed,Transformed
+gyoza.png,Gyoza,,,Transformed,Transformed
+ham.png,Ham,,,Transformed,Transformed
+hamburger.png,Hamburger,,,Transformed,Transformed
+hot-dog.png,Hot dog,,,Transformed,Transformed
+ice-cream.png,Ice cream,,,Transformed,Transformed
+injera.png,Injera,,,Transformed,Transformed
+jelly.png,Jelly,,,Transformed,Transformed
+katsu.png,Katsu,,,Transformed,Transformed
+kimchi-stew.png,Kimchi stew,,,Transformed,Transformed
+laksa.png,Laksa,,,Transformed,Transformed
+lasagna.png,Lasagna,,,Transformed,Transformed
+lavash.png,Lavash,,,Transformed,Transformed
+lentil-stew.png,Lentil stew,,,Transformed,Transformed
+lollipop.png,Lollipop,,,Transformed,Transformed
+mac-and-cheese.png,Mac and cheese,,,Transformed,Transformed
+macaroni-pasta.png,Macaroni pasta,,,Transformed,Transformed
+matzo.png,Matzo,,,Transformed,Transformed
+meatballs.png,Meatballs,,,Transformed,Transformed
+meatloaf.png,Meatloaf,,,Transformed,Transformed
+milk-chocolate.png,Milk chocolate,,,Transformed,Transformed
+miso-soup.png,Miso soup,,,Transformed,Transformed
+mortadella.png,Mortadella,,,Transformed,Transformed
+muesli.png,Muesli,,,Transformed,Transformed
+muffin.png,Muffin,,,Transformed,Transformed
+muffin-english.png,Muffin (English),,,Transformed,Transformed
+naan.png,Naan,,,Transformed,Transformed
+nachos.png,Nachos,,,Transformed,Transformed
+nasi-goreng.png,Nasi goreng,,,Transformed,Transformed
+noodles-wheat.png,Noodles (wheat),,,Transformed,Transformed
+oats.png,Oats,,,Transformed,Transformed
+olive.png,Olive,,,Transformed,Transformed
+omelette.png,Omelette,,,Transformed,Transformed
+pad-thai.png,Pad Thai,,,Transformed,Transformed
+paella.png,Paella,,,Transformed,Transformed
+pancake.png,Pancake,,,Transformed,Transformed
+paneer.png,Paneer,,,Transformed,Transformed
+pasta-spaghetti.png,Pasta (spaghetti),,,Transformed,Transformed
+pastry.png,Pastry,,,Transformed,Transformed
+penne.png,Penne,,,Transformed,Transformed
+pesto-chicken.png,Pesto chicken,,,Transformed,Transformed
+pesto-pasta.png,Pesto pasta,,,Transformed,Transformed
+pho.png,Pho,,,Transformed,Transformed
+pickled-cucumber.png,Pickled cucumber,,,Transformed,Transformed
+pita.png,Pita,,,Transformed,Transformed
+pizza.png,Pizza,,,Transformed,Transformed
+plain-bagel.png,Plain Bagel,,,Transformed,Transformed
+polenta.png,Polenta,,,Transformed,Transformed
+polenta-cake.png,Polenta cake,,,Transformed,Transformed
+popcorn.png,Popcorn,,,Transformed,Transformed
+potato-chips.png,Potato chips,,,Transformed,Transformed
+potato-salad.png,Potato salad,,,Transformed,Transformed
+pretzel.png,Pretzel,,,Transformed,Transformed
+prosciutto.png,Prosciutto,,,Transformed,Transformed
+pudding.png,Pudding,,,Transformed,Transformed
+puff-pastry.png,Puff pastry,,,Transformed,Transformed
+pumpkin-pie.png,Pumpkin pie,,,Transformed,Transformed
+pumpkin-soup.png,Pumpkin soup,,,Transformed,Transformed
+quesadilla.png,Quesadilla,,,Transformed,Transformed
+ramen.png,Ramen,,,Transformed,Transformed
+rendang.png,Rendang,,,Transformed,Transformed
+rice-white.png,Rice (white),,,Transformed,Transformed
+rice-noodles.png,Rice noodles,,,Transformed,Transformed
+risotto.png,Risotto,,,Transformed,Transformed
+rogan-josh.png,Rogan josh,,,Transformed,Transformed
+roti.png,Roti,,,Transformed,Transformed
+salami.png,Salami,,,Transformed,Transformed
+sandwich.png,Sandwich,,,Transformed,Transformed
+sardines.png,Sardines,,,Transformed,Transformed
+satay.png,Satay,,,Transformed,Transformed
+sausage.png,Sausage,,,Transformed,Transformed
+scone.png,Scone,,,Transformed,Transformed
+shepherds-pie.png,Shepherds pie,,,Transformed,Transformed
+shrimp-spring-rolls.png,shrimp spring rolls,,,Transformed,Transformed
+soba-noodles.png,Soba noodles,,,Transformed,Transformed
+sorbet.png,Sorbet,,,Transformed,Transformed
+sourdough.png,Sourdough,,,Transformed,Transformed
+spaghetti-bolognese.png,Spaghetti bolognese,,,Transformed,Transformed
+spring-rolls.png,Spring rolls,,,Transformed,Transformed
+stew.png,Stew,,,Transformed,Transformed
+stir-fry.png,Stir fry,,,Transformed,Transformed
+sushi.png,Sushi,,,Transformed,Transformed
+sweet-and-sour-chicken.png,Sweet and sour chicken,,,Transformed,Transformed
+sweet-breakfast-cereal.png,sweet breakfast cereal,,,Transformed,Transformed
+taco.png,Taco,,,Transformed,Transformed
+tart.png,Tart,,,Transformed,Transformed
+tempeh.png,Tempeh,,,Transformed,Transformed
+tempura.png,Tempura,,,Transformed,Transformed
+teriyaki-chicken.png,Teriyaki chicken,,,Transformed,Transformed
+tikka-masala.png,Tikka masala,,,Transformed,Transformed
+toffee.png,Toffee,,,Transformed,Transformed
+tofu.png,Tofu,,,Transformed,Transformed
+tom-yum-soup.png,Tom yum soup,,,Transformed,Transformed
+tomato-bruschetta.png,Tomato bruschetta,,,Transformed,Transformed
+tomato-soup.png,Tomato soup,,,Transformed,Transformed
+tortilla-corn.png,Tortilla (corn),,,Transformed,Transformed
+tortilla-flour.png,Tortilla (flour),,,Transformed,Transformed
+udon.png,Udon,,,Transformed,Transformed
+vegetable-curry.png,Vegetable curry,,,Transformed,Transformed
+vermicelli.png,Vermicelli,,,Transformed,Transformed
+waffle.png,Waffle,,,Transformed,Transformed
+yogurt-plain.png,Yogurt (plain),,,Transformed,Transformed

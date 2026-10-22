@@ -1,0 +1,25 @@
+{
+  "items": 350,
+  "triplets": 140160,
+  "dim_requested": 90,
+  "epochs": 500,
+  "batch_size": 100,
+  "lr": 0.001,
+  "lmbda": 0.014,
+  "prune_threshold": 0.1,
+  "max_keep": null,
+  "kept_dims": 23,
+  "soft_targets": false,
+  "early_stop": true,
+  "window_size": 50,
+  "best_val_loss": null,
+  "outputs": {
+    "scores_csv": "nn_scores.csv",
+    "npz": "nn_results.npz",
+    "final_model": "final_model.pt",
+    "training_history": "training_history.json",
+    "sorted_lists_dir": "sorted",
+    "completed_rdm_local": "completed_rdm_from_embedding.npz",
+    "completed_rdm_global": "triplet_rdm_completed_nn_seed20.npz"
+  }
+}

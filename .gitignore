@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+analysis_code/compute_outputs/
+analysis_code/derivatives/*
+!analysis_code/derivatives/nn_runs/
+!analysis_code/derivatives/triplet_rdm_completed_nn_seed20*.npz
+analysis_code/results/*
+!analysis_code/results/stage7_nn_interpretation/
+analysis_code/results/stage7_nn_interpretation/*
+!analysis_code/results/stage7_nn_interpretation/ai_interpretations_cache.json
+sensitivity/sensitivity_outputs/

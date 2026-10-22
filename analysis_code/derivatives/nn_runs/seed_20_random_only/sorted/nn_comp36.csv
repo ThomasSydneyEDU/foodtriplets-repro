@@ -1,0 +1,351 @@
+rank,filename,score,label
+1,fried-rice.png,1.8407718,Fried rice
+2,borrito-bowl.png,1.6329795,borrito bowl
+3,muffin-english.png,1.4077126,Muffin (English)
+4,garden-salad.png,1.3886123,Garden salad
+5,fried-tofu-bowl.png,1.358842,Fried tofu bowl
+6,chickpeas.png,1.2875445,Chickpeas
+7,sweet-and-sour-chicken.png,1.2801603,Sweet and sour chicken
+8,fried-noodles.png,1.1949841,Fried noodles
+9,laksa.png,1.1897813,Laksa
+10,pasta-spaghetti.png,0.9692825,Pasta (spaghetti)
+11,microgreens.png,0.86786336,Microgreens
+12,wheat.png,0.8477678,Wheat
+13,eggs-chicken.png,0.7951411,Eggs (chicken)
+14,yam.png,0.74706745,Yam
+15,vegetable-curry.png,0.7399608,Vegetable curry
+16,katsu.png,0.7258099,Katsu
+17,bibimbap.png,0.72468823,Bibimbap
+18,shrimp-spring-rolls.png,0.6834859,shrimp spring rolls
+19,mortadella.png,0.658411,Mortadella
+20,grapes-red.png,0.65232825,Grapes (red)
+21,alfalfa-sprouts.png,0.64263946,Alfalfa sprouts
+22,dried-mango.png,0.6149128,Dried mango
+23,shrimp.png,0.6107698,Shrimp
+24,pineapple-raw.png,0.59520656,Pineapple (raw)
+25,couscous.png,0.58682346,Couscous
+26,granola.png,0.58651596,Granola
+27,roti.png,0.57360417,Roti
+28,tom-yum-soup.png,0.5626818,Tom yum soup
+29,biscuit-us.png,0.5509429,Biscuit (US)
+30,passionfruit.png,0.54682416,Passionfruit
+31,prawns.png,0.5181871,Prawns
+32,cashews.png,0.4821819,Cashews
+33,greek-salad.png,0.4359163,Greek salad
+34,gooseberry.png,0.42029613,Gooseberry
+35,persimmon.png,0.399967,Persimmon
+36,macaroni-pasta.png,0.39716354,Macaroni pasta
+37,sourdough.png,0.39604232,Sourdough
+38,cabbage-raw.png,0.37399173,Cabbage (raw)
+39,lima-beans.png,0.3603025,Lima beans
+40,salami.png,0.3561132,Salami
+41,apricot-prepared.png,0.35303798,Apricot (prepared)
+42,bacon.png,0.35289073,Bacon
+43,coleslaw.png,0.35275435,Coleslaw
+44,gyoza.png,0.33888212,Gyoza
+45,turkey.png,0.33558628,Turkey
+46,vermicelli.png,0.33367968,Vermicelli
+47,beef-steak.png,0.33209795,Beef steak
+48,tempura.png,0.32070723,Tempura
+49,tomato-soup.png,0.31836292,Tomato soup
+50,ramen.png,0.30695707,Ramen
+51,carrot-raw.png,0.29594412,Carrot (raw)
+52,barramundi.png,0.29374197,Barramundi
+53,date.png,0.2875509,Date
+54,pork-chop.png,0.28681397,Pork chop
+55,lobster.png,0.2751763,Lobster
+56,prosciutto.png,0.27418363,Prosciutto
+57,kohlrabi.png,0.268638,Kohlrabi
+58,polenta-cake.png,0.26626056,Polenta cake
+59,falafel.png,0.26403818,Falafel
+60,nachos.png,0.24750145,Nachos
+61,chapati.png,0.23374596,Chapati
+62,cranberry.png,0.20854829,Cranberry
+63,satay.png,0.20258558,Satay
+64,mulberry.png,0.18960327,Mulberry
+65,grilled-salmon.png,0.18681127,Grilled salmon
+66,salmon.png,0.16283669,Salmon
+67,asparagus-prepared.png,0.15477084,Asparagus (prepared)
+68,toffee.png,0.14122951,Toffee
+69,dahl.png,0.14020759,Dahl
+70,asparagus-raw.png,0.1326437,Asparagus (raw)
+71,flatbread.png,0.12190383,Flatbread
+72,tofu.png,0.113005355,Tofu
+73,rocket-arugula.png,0.0971805,Rocket (arugula)
+74,kimchi-stew.png,0.08735382,Kimchi stew
+75,seaweed.png,0.081195824,Seaweed
+76,pho.png,0.078769684,Pho
+77,matzo.png,0.074059546,Matzo
+78,calamari.png,0.06799069,Calamari
+79,shepherds-pie.png,0.065878086,Shepherds pie
+80,cherry.png,0.061343197,Cherry
+81,penne.png,0.0479598,Penne
+82,radicchio.png,0.046650358,Radicchio
+83,venison.png,0.045297373,Venison
+84,sugar-snap-peas.png,0.037381325,Sugar snap peas
+85,mustard-greens.png,0.03731682,Mustard greens
+86,cereal-flakes.png,0.036874216,Cereal flakes
+87,oysters.png,0.033931937,Oysters
+88,cucumber.png,0.033600543,Cucumber
+89,puff-pastry.png,0.028767863,Puff pastry
+90,rye.png,0.027659794,Rye
+91,grapefruit.png,0.027344717,Grapefruit
+92,navy-beans.png,0.026946135,Navy beans
+93,cheese-mozzarella.png,0.026903955,Cheese (mozzarella)
+94,muesli.png,0.025942842,Muesli
+95,rice-brown.png,0.02506856,Rice (brown)
+96,apricot-raw.png,0.024787156,Apricot (raw)
+97,papaya.png,0.024756141,Papaya
+98,injera.png,0.02292999,Injera
+99,tuna.png,0.022590145,Tuna
+100,lychee.png,0.022581069,Lychee
+101,nasi-goreng.png,0.02222455,Nasi goreng
+102,potato-prepared.png,0.021881353,Potato (prepared)
+103,quail-eggs.png,0.021702694,Quail eggs
+104,kumquat.png,0.021427775,Kumquat
+105,endive.png,0.02125735,Endive
+106,portobello-mushrooms.png,0.021236163,Portobello mushrooms
+107,cracker.png,0.021220485,Cracker
+108,walnuts.png,0.021038078,Walnuts
+109,barley.png,0.020554882,Barley
+110,brioche.png,0.01966795,Brioche
+111,octopus.png,0.019448277,Octopus
+112,banana-chips.png,0.019190062,Banana chips
+113,roast-chicken.png,0.018931147,Roast chicken
+114,chicken-parmesan.png,0.0187697,Chicken parmesan
+115,caesar-salad.png,0.018767528,Caesar salad
+116,zucchini-raw.png,0.018553464,Zucchini (raw)
+117,kiwi.png,0.018357424,Kiwi
+118,pizza.png,0.018227013,Pizza
+119,tart.png,0.018219037,Tart
+120,cheese-brie.png,0.01800082,Cheese (brie)
+121,leek.png,0.017990442,Leek
+122,dried-fig.png,0.017816564,Dried fig
+123,artichoke.png,0.017596843,Artichoke
+124,shallot.png,0.017544962,Shallot
+125,mussels.png,0.01737309,Mussels
+126,noodles-wheat.png,0.016949655,Noodles (wheat)
+127,cookie.png,0.016881878,Cookie
+128,chicken-breast.png,0.016843863,Chicken breast
+129,meatballs.png,0.016786538,Meatballs
+130,eggplant-prepared.png,0.016776983,Eggplant (prepared)
+131,hot-dog.png,0.016674368,Hot dog
+132,cauliflower-raw.png,0.016471319,Cauliflower (raw)
+133,donut.png,0.016358262,Donut
+134,apple-raw.png,0.01626175,Apple (raw)
+135,guava.png,0.016086984,Guava
+136,quesadilla.png,0.015925042,Quesadilla
+137,kale-prepared.png,0.015759017,Kale (prepared)
+138,pita.png,0.015754826,Pita
+139,eggplant-raw.png,0.015597457,Eggplant (raw)
+140,ham.png,0.0155270435,Ham
+141,chicken-tikka-wrap.png,0.01549457,Chicken tikka wrap
+142,banana.png,0.015318387,Banana
+143,lasagna.png,0.015158071,Lasagna
+144,lettuce.png,0.015127313,Lettuce
+145,custard.png,0.0150386775,Custard
+146,almonds.png,0.014914665,Almonds
+147,chili-con-carne.png,0.01486401,Chili con carne
+148,peach-raw.png,0.014753978,Peach (raw)
+149,yogurt-plain.png,0.014644042,Yogurt (plain)
+150,quinoa.png,0.014502672,Quinoa
+151,broccoli-raw.png,0.014465009,Broccoli (raw)
+152,snow-peas.png,0.014265573,Snow peas
+153,brownie.png,0.014216226,Brownie
+154,pinto-beans.png,0.014164835,Pinto beans
+155,squid.png,0.0140799945,Squid
+156,pear-prepared.png,0.014050469,Pear (prepared)
+157,shiitake-mushrooms.png,0.014021143,Shiitake mushrooms
+158,taco.png,0.013943863,Taco
+159,spring-rolls.png,0.013785666,Spring rolls
+160,turnip.png,0.013670612,Turnip
+161,soursop.png,0.013487418,Soursop
+162,jelly.png,0.013474776,Jelly
+163,roast-lamb.png,0.013327211,Roast lamb
+164,parsnip.png,0.01327647,Parsnip
+165,sweet-potato-prepared.png,0.012939368,Sweet potato (prepared)
+166,grapes-green.png,0.012873923,Grapes (green)
+167,ice-cream.png,0.012840193,Ice cream
+168,duck.png,0.0126795005,Duck
+169,baguette.png,0.012459247,Baguette
+170,burrito.png,0.0123420935,Burrito
+171,bell-pepper-capsicum.png,0.012214108,Bell pepper (capsicum)
+172,cornbread.png,0.01207606,Cornbread
+173,spinach-raw.png,0.012016722,Spinach (raw)
+174,cheese-feta.png,0.011784273,Cheese (feta)
+175,sausage.png,0.011763091,Sausage
+176,tortilla-corn.png,0.011418967,Tortilla (corn)
+177,miso-soup.png,0.011310213,Miso soup
+178,blueberry.png,0.011281821,Blueberry
+179,udon.png,0.0111965835,Udon
+180,doner-kebab.png,0.01114255,Doner kebab
+181,rendang.png,0.011136748,Rendang
+182,radish.png,0.011116492,Radish
+183,pudding.png,0.011112249,Pudding
+184,carrot-cooked.png,0.010717071,Carrot (cooked)
+185,hamburger.png,0.010713501,Hamburger
+186,strawberry.png,0.010686766,Strawberry
+187,anchovies.png,0.010433878,Anchovies
+188,tomato-bruschetta.png,0.010431597,Tomato bruschetta
+189,risotto.png,0.01026696,Risotto
+190,teriyaki-chicken.png,0.0102214925,Teriyaki chicken
+191,fish-and-chips.png,0.01010913,Fish and chips
+192,chicken-wings.png,0.010070962,Chicken wings
+193,pear-raw.png,0.010030007,Pear (raw)
+194,black-beans.png,0.010000122,Black beans
+195,fried-chicken.png,0.009985529,Fried chicken
+196,starfruit.png,0.009982455,Starfruit
+197,stew.png,0.0099460315,Stew
+198,mushrooms-button.png,0.009935731,Mushrooms (button)
+199,biryani.png,0.009801824,Biryani
+200,bread-white.png,0.009697669,Bread (white)
+201,celery.png,0.009675506,Celery
+202,sushi.png,0.009656454,Sushi
+203,peach-prepared.png,0.009648905,Peach (prepared)
+204,swiss-chard.png,0.0095533,Swiss chard
+205,jalapeno.png,0.0094163455,Jalapeno
+206,cupcake.png,0.009381261,Cupcake
+207,dried-cherry.png,0.009353483,Dried cherry
+208,dumplings.png,0.009329956,Dumplings
+209,bread-wholegrain.png,0.009231366,Bread (wholegrain)
+210,spinach-prepared.png,0.009172515,Spinach (prepared)
+211,soba-noodles.png,0.009143369,Soba noodles
+212,apple-prepared.png,0.009105552,Apple (prepared)
+213,kidney-beans.png,0.009076088,Kidney beans
+214,avocado.png,0.00869123,Avocado
+215,rice-noodles.png,0.008666398,Rice noodles
+216,jackfruit.png,0.008618887,Jackfruit
+217,water-chestnut.png,0.008409224,Water chestnut
+218,roast-beef.png,0.0083983615,Roast beef
+219,beef-stir-fry.png,0.008329271,Beef stir fry
+220,granola-bar.png,0.0081930375,Granola bar
+221,pretzel.png,0.007918531,Pretzel
+222,onion-prepared.png,0.007899121,Onion (prepared)
+223,fennel.png,0.00783853,Fennel
+224,plantain.png,0.007826451,Plantain
+225,tamarind.png,0.007756345,Tamarind
+226,pesto-chicken.png,0.0077182925,Pesto chicken
+227,zucchini-prepared.png,0.0076866597,Zucchini (prepared)
+228,green-beans-raw.png,0.0076842424,Green beans (raw)
+229,pineapple-prepared.png,0.007681394,Pineapple (prepared)
+230,pumpkin-pie.png,0.0076553468,Pumpkin pie
+231,rockmelon-cantaloupe.png,0.007405887,Rockmelon (cantaloupe)
+232,collard-greens.png,0.007361275,Collard greens
+233,snapper.png,0.007353545,Snapper
+234,popcorn.png,0.006994461,Popcorn
+235,cannellini-beans.png,0.0069595855,Cannellini beans
+236,mandarin.png,0.0068827085,Mandarin
+237,elderberry.png,0.006867466,Elderberry
+238,omelette.png,0.006860888,Omelette
+239,baked-salmon-fillet.png,0.0068181274,Baked salmon fillet
+240,corn.png,0.0067916634,Corn
+241,peas.png,0.0067680893,Peas
+242,dragon-fruit.png,0.006732683,Dragon fruit
+243,milk-chocolate.png,0.0066709155,Milk chocolate
+244,casserole.png,0.0065799505,Casserole
+245,deli-ham-sliced.png,0.005989688,Deli ham (sliced)
+246,fruit-leather.png,0.0059294705,Fruit leather
+247,cauliflower-prepared.png,0.005927082,Cauliflower (prepared)
+248,stir-fry.png,0.0058348775,Stir fry
+249,carbonara.png,0.005764187,Carbonara
+250,polenta.png,0.0055831643,Polenta
+251,scone.png,0.0055092517,Scone
+252,raisin.png,0.005480252,Raisin
+253,croissant.png,0.005394162,Croissant
+254,bamboo-shoots.png,0.005322451,Bamboo shoots
+255,orange.png,0.0053137476,Orange
+256,pumpkin-soup.png,0.00527323,Pumpkin soup
+257,muffin.png,0.005241688,Muffin
+258,chocolate-peanut-butter-pie.png,0.0051705856,chocolate peanut butter pie
+259,rice-white.png,0.005149826,Rice (white)
+260,crab.png,0.0051349727,Crab
+261,mac-and-cheese.png,0.0051273517,Mac and cheese
+262,potato-salad.png,0.005044079,Potato salad
+263,pancake.png,0.0049941707,Pancake
+264,sashimi.png,0.0049341745,Sashimi
+265,lentil-stew.png,0.0049190675,Lentil stew
+266,sweet-breakfast-cereal.png,0.004889397,sweet breakfast cereal
+267,fudge.png,0.0048736143,Fudge
+268,split-peas.png,0.0048298836,Split peas
+269,pesto-pasta.png,0.0047589196,Pesto pasta
+270,trout.png,0.004718114,Trout
+271,prune.png,0.004586984,Prune
+272,lollipop.png,0.0045843422,Lollipop
+273,olive.png,0.0044908994,Olive
+274,onion-raw.png,0.004477926,Onion (raw)
+275,breadstick.png,0.004450951,Breadstick
+276,waffle.png,0.004426414,Waffle
+277,mackerel.png,0.0043678056,Mackerel
+278,fig-raw.png,0.0043532057,Fig (raw)
+279,spaghetti-bolognese.png,0.004303802,Spaghetti bolognese
+280,tempeh.png,0.0040698866,Tempeh
+281,empanada.png,0.004034468,Empanada
+282,lime.png,0.0039392556,Lime
+283,oats.png,0.0038533334,Oats
+284,naan.png,0.0038446153,Naan
+285,taro.png,0.0038391782,Taro
+286,sardines.png,0.0038374246,Sardines
+287,bok-choy.png,0.0037853543,Bok choy
+288,rogan-josh.png,0.0037809848,Rogan josh
+289,lavash.png,0.003718011,Lavash
+290,raspberry.png,0.003691191,Raspberry
+291,lentils.png,0.003673335,Lentils
+292,pickled-cucumber.png,0.0036259203,Pickled cucumber
+293,scallops.png,0.0035821996,Scallops
+294,cabbage-prepared.png,0.0034916126,Cabbage (prepared)
+295,pumpkin.png,0.003454676,Pumpkin
+296,tortilla-flour.png,0.0034499743,Tortilla (flour)
+297,apple-pear-nashi.png,0.003358203,Apple pear (nashi)
+298,beetroot-prepared.png,0.0033044503,Beetroot (prepared)
+299,sorbet.png,0.0032332416,Sorbet
+300,mango-raw.png,0.0032042158,Mango (raw)
+301,cheese-cheddar.png,0.0030978837,Cheese (cheddar)
+302,brussels-sprouts.png,0.00309127,Brussels sprouts
+303,chocolate-cake.png,0.0030820377,Chocolate cake
+304,candy.png,0.0030790353,Candy
+305,bulgogi.png,0.003069339,Bulgogi
+306,currant.png,0.0030286128,Currant
+307,lamb-chop.png,0.0030146446,Lamb chop
+308,ground-beef.png,0.0030075037,Ground beef
+309,lemon.png,0.0030063293,Lemon
+310,garlic.png,0.0029986755,Garlic
+311,plum-raw.png,0.0029616477,Plum (raw)
+312,broccoli-prepared.png,0.0029319965,Broccoli (prepared)
+313,dried-apple.png,0.0028227987,Dried apple
+314,sandwich.png,0.0028051382,Sandwich
+315,tikka-masala.png,0.0027548932,Tikka masala
+316,durian.png,0.0026973423,Durian
+317,plum-prepared.png,0.0026508998,Plum (prepared)
+318,okra.png,0.0026449973,Okra
+319,cheesecake.png,0.0026350887,Cheesecake
+320,watermelon.png,0.002515622,Watermelon
+321,tomato-culinary-fruit.png,0.0025126901,Tomato (culinary fruit)
+322,chicken-noodle-soup.png,0.0023705584,Chicken noodle soup
+323,bagel.png,0.0022820695,Bagel
+324,edamame.png,0.0022184565,Edamame
+325,sorghum.png,0.0021962929,Sorghum
+326,chicken-thigh.png,0.002143595,Chicken thigh
+327,curry-indian.png,0.002011586,Curry (Indian)
+328,cod.png,0.0019896554,Cod
+329,dried-apricot.png,0.0017918526,Dried apricot
+330,honeydew.png,0.0017614898,Honeydew
+331,gelato.png,0.0017331466,Gelato
+332,apple-pie.png,0.001720331,Apple pie
+333,potato-chips.png,0.0016392397,Potato chips
+334,blackberry.png,0.0015983534,Blackberry
+335,french-fries-chips.png,0.0012285573,French fries (chips)
+336,pastry.png,0.0011254982,Pastry
+337,paneer.png,0.0010971758,Paneer
+338,meatloaf.png,0.0010477962,Meatloaf
+339,napa-cabbage.png,0.0008891504,Napa cabbage
+340,paella.png,0.0008415368,Paella
+341,lotus-root.png,0.00075757876,Lotus root
+342,pomegranate.png,0.0007080737,Pomegranate
+343,nectarine.png,0.00062767277,Nectarine
+344,chayote.png,0.00030464315,Chayote
+345,pad-thai.png,0.00027288363,Pad Thai
+346,plain-bagel.png,0.00020857778,Plain Bagel
+347,coconut.png,0.000114393144,Coconut
+348,dark-chocolate.png,6.3755404e-05,Dark chocolate
+349,chilli-pepper.png,0.0,Chilli pepper
+350,butter-chicken.png,0.0,Butter chicken

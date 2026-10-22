@@ -1,0 +1,43 @@
+column,description
+ll_lbp_hist_json,"Local Binary Pattern histogram for texture, JSON-encoded list"
+ll_mean_luminance,Mean grayscale intensity
+ll_rms_contrast,Std of grayscale intensity
+ll_lab_L_mean,Mean Lab L* (lightness)
+ll_lab_L_std,Std Lab L*
+ll_lab_a_mean,Mean Lab a* (green-red)
+ll_lab_a_std,Std Lab a*
+ll_lab_b_mean,Mean Lab b* (blue-yellow)
+ll_lab_b_std,Std Lab b*
+ll_hsv_s_mean,Mean HSV saturation
+ll_edge_energy,Mean Sobel edge magnitude
+ll_power_radial_30_json,"Radially-averaged log power spectrum (30 bins), JSON-encoded list"
+ll_hog_pc01,HOG descriptor PCA component 1
+ll_hog_pc02,HOG descriptor PCA component 2
+ll_hog_pc03,HOG descriptor PCA component 3
+ll_hog_pc04,HOG descriptor PCA component 4
+ll_hog_pc05,HOG descriptor PCA component 5
+ll_hog_pc06,HOG descriptor PCA component 6
+ll_hog_pc07,HOG descriptor PCA component 7
+ll_hog_pc08,HOG descriptor PCA component 8
+ll_hog_pc09,HOG descriptor PCA component 9
+ll_hog_pc10,HOG descriptor PCA component 10
+dl_resnet50_conv1_pc01,ResNet-50 conv1 pooled channels PCA component 1
+dl_resnet50_conv1_pc02,ResNet-50 conv1 pooled channels PCA component 2
+dl_resnet50_conv1_pc03,ResNet-50 conv1 pooled channels PCA component 3
+dl_resnet50_conv1_pc04,ResNet-50 conv1 pooled channels PCA component 4
+dl_resnet50_conv1_pc05,ResNet-50 conv1 pooled channels PCA component 5
+dl_resnet50_conv1_pc06,ResNet-50 conv1 pooled channels PCA component 6
+dl_resnet50_conv1_pc07,ResNet-50 conv1 pooled channels PCA component 7
+dl_resnet50_conv1_pc08,ResNet-50 conv1 pooled channels PCA component 8
+dl_resnet50_conv1_pc09,ResNet-50 conv1 pooled channels PCA component 9
+dl_resnet50_conv1_pc10,ResNet-50 conv1 pooled channels PCA component 10
+dl_resnet50_layer3_pc01,ResNet-50 layer3 pooled channels PCA component 1
+dl_resnet50_layer3_pc02,ResNet-50 layer3 pooled channels PCA component 2
+dl_resnet50_layer3_pc03,ResNet-50 layer3 pooled channels PCA component 3
+dl_resnet50_layer3_pc04,ResNet-50 layer3 pooled channels PCA component 4
+dl_resnet50_layer3_pc05,ResNet-50 layer3 pooled channels PCA component 5
+dl_resnet50_layer3_pc06,ResNet-50 layer3 pooled channels PCA component 6
+dl_resnet50_layer3_pc07,ResNet-50 layer3 pooled channels PCA component 7
+dl_resnet50_layer3_pc08,ResNet-50 layer3 pooled channels PCA component 8
+dl_resnet50_layer3_pc09,ResNet-50 layer3 pooled channels PCA component 9
+dl_resnet50_layer3_pc10,ResNet-50 layer3 pooled channels PCA component 10
