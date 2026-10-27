@@ -1,5 +1,7 @@
 # Food triplets: analysis code and reproduction
 
+[![DOI](https://zenodo.org/badge/1429124943.svg)](https://doi.org/10.5281/zenodo.23579454)
+
 Code to reproduce the analyses, tables and figures in Carlson, Avery, Hebart et al. (Cognition, under revision) from the public data.
 
 ## What you need
